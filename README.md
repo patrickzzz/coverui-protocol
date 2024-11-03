@@ -4,7 +4,7 @@ This repository provides tools and documentation for working with the CoverUI co
 
 ## Contents
 
-- **CoverUI-Protocol.xlsx**: A spreadsheet documenting the protocol specifications. (*Note: There are still bits, that need some further investigation.*)
+- **CoverUI-Protocol.xlsx**: A spreadsheet with rough protocol documentation, containing demos, examples, and explanations of key aspects. (*Note: There are still bits, that need some further investigation.*)
 - **mainboard-imitator**: Code for emulating the mainboard, which is connected to CoverUI (*Note: Currently for DEMO/POC purpose*).
 - **protocol-listener**: A tool for listening to and analyzing protocol messages between original CoverUI and Mainboard.
 
